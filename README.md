@@ -29,6 +29,8 @@ cd Nano_Project_FSD\
 
 Run the app.
 
+If you haven't installed node then first install node, then ...
+
 ```
 node server.js
 ```
